@@ -16,16 +16,21 @@ sudden changes that must be made at the moment.
 
 Tasks:
 ● Explore Crypto API
-       ○ link: https://www.coingecko.com/en/api/documentation
+ ○ link: https://www.coingecko.com/en/api/documentation
+ 
 ● Get a list of all coins with id, name and symbol (using Crypto API)
-○ Get bitcoin coin id
+  ○ Get bitcoin coin id
+  
 ● Get the price of bitcoin in usd and by date of the first quarter of 2022 (using
 Crypto API)
-○ Save the information in the database of your choice
+  ○ Save the information in the database of your choice
+  
 ● Consume the data previously persisted in the database to make a
 window/partition function for every 5 days (spark or pandas)
-○ Extra point: Save the information in the database of your choice
+  ○ Extra point: Save the information in the database of your choice
+  
 ● Add your code on github repository
-○ Share the link before the interview
+  ○ Share the link before the interview
+  
 ● Extra point: using the tool of your choice show the results obtained in a
 graph
