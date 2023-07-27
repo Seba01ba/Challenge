@@ -1,17 +1,22 @@
 # Challenge
 
 Coding Challenge - Bitcoin Price
+
+
 Objective:
 Develop an automated and scalable process to obtain the average of each 5
 days (moving average) of the price of bitcoin in the first quarter of 2022.
+
+
 Brief:
-The finance team needs to analyze the behavior of bitcoin to know if it is feasible
-to invest in that currency.
+The finance team needs to analyze the behavior of bitcoin to know if it is feasible to invest in that currency.
 Your task is to obtain this information in an automated way and be prepared for
 sudden changes that must be made at the moment.
+
+
 Tasks:
 ● Explore Crypto API
-○ link: https://www.coingecko.com/en/api/documentation
+       ○ link: https://www.coingecko.com/en/api/documentation
 ● Get a list of all coins with id, name and symbol (using Crypto API)
 ○ Get bitcoin coin id
 ● Get the price of bitcoin in usd and by date of the first quarter of 2022 (using
